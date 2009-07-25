@@ -1,0 +1,44 @@
+﻿/* No comment provided by engineer. */
+"Default display" = "Тема по умолчанию";
+
+/* No comment provided by engineer. */
+"Default display changed to %@" = "Тема по умолчанию изменена на %@";
+
+/* Notification posted by GrowlMenu when the display style changes */
+"Display changed" = "Тема изменена";
+
+/* No comment provided by engineer. */
+"Don't show notifications, but still log them" = "Не отображать предупреждения, но записывать их в журнал";
+
+/* No comment provided by engineer. */
+"Hide Status Item" = "Скрыть меню";
+
+/* No comment provided by engineer. */
+"Hide this status item" = "Скрывает данное меню статуса";
+
+/* No comment provided by engineer. */
+"Log only, don't display" = "Вести журнал, скрыть оповещения";
+
+/* No comment provided by engineer. */
+"Open Growl Preferences..." = "Параметры Growl…";
+
+/* No comment provided by engineer. */
+"Open the Growl preference pane" = "Открыть панель параметров  Growl";
+
+/* No comment provided by engineer. */
+"Restart Growl" = "Перезапустить Growl";
+
+/* No comment provided by engineer. */
+"Set the default display style" = "Установить тему по умолчанию";
+
+/* No comment provided by engineer. */
+"Start Growl" = "Включить Growl";
+
+/* No comment provided by engineer. */
+"Sticky Notifications" = "Постоянные оповещения";
+
+/* No comment provided by engineer. */
+"Stop Growl" = "Выключить Growl";
+
+/* No comment provided by engineer. */
+"Toggles the sticky notification state" = "Переключает постоянные оповещения";

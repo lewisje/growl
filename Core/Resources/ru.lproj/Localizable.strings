@@ -1,0 +1,131 @@
+﻿/* No comment provided by engineer. */
+" New notifications will be sticky." = "Новые оповещения будут постоянными.";
+
+/* No comment provided by engineer. */
+"A Growl update is available" = "Доступно обновление для Growl";
+
+/* No comment provided by engineer. */
+"A newer version of Growl is available online. Click here to download it now." = "Доступна новая версия Growl. Нажмите OK, чтобы скачать её.";
+
+/* No comment provided by engineer. */
+"A newer version of Growl is available online. Would you like to download it now?" = "Доступна новая версия Growl. Не желаете ли скачать её?";
+
+/* No comment provided by engineer. */
+"Are you sure you want to remove %@?" = "Вы уверены в том, что хотите удалить %@?";
+
+/* No comment provided by engineer. */
+"Browse menu item title" = "Browse menu item title";
+
+/* No comment provided by engineer. */
+"Cancel" = "Отмена";
+
+/* No comment provided by engineer. */
+"Default" = "По умолчанию";
+
+/* No comment provided by engineer. */
+"Growl could not bind the socket" = "Growl не смог связаться с сокетом";
+
+/* No comment provided by engineer. */
+"Growl could not create a socket" = "Growl не смог создать сокет";
+
+/* No comment provided by engineer. */
+"Growl is running." = "Growl работает.";
+
+/* No comment provided by engineer. */
+"Growl is stopped." = "Growl остановлен.";
+
+/* No comment provided by engineer. */
+"Growl update available" = "Доступно обновление для Growl";
+
+/* No comment provided by engineer. */
+"Growl was unable to bind the socket for Network notifications. Check to make sure that there aren't any other applications already using the port." = "Growl не смог связаться с сокетом для оповещений по сети. Убедитесь, что другие приложения не используют порт.";
+
+/* No comment provided by engineer. */
+"Growl was unable to create the socket for Network notifications." = "Growl не смог создать сокет для оповещений по сети.";
+
+/* No comment provided by engineer. */
+"Inform %@ when a notification is clicked" = "Сообщить %@, что по оповещению щёлкнули мышью";
+
+/* No comment provided by engineer. */
+"Launching Growl..." = "Growl запускается…";
+
+/* No comment provided by engineer. */
+"Mac OS X 10.3 \"Panther\" or greater is required." = "Для работы программы необходима Mac OS X 10.3 \"Panther\" или выше.";
+
+/* No comment provided by engineer. */
+"No" = "Нет";
+
+/* No comment provided by engineer. */
+"No activity for more than %d seconds." = "Нет событий более %d сек.";
+
+/* No comment provided by engineer. */
+"OK" = "OK";
+
+/* No comment provided by engineer. */
+"Plugin '%@' has been installed successfully. Do you want to configure it now?" = "Успешно установлен плагин '%@'. Хотите ли Вы настроить его?";
+
+/* No comment provided by engineer. */
+"Plugin '%@' is already installed, do you want to overwrite it?" = "Плагин '%@' уже был установлен ранее. Хотите ли Вы заменить его?";
+
+/* No comment provided by engineer. */
+"Plugin already exists" = "Плагин уже существует";
+
+/* No comment provided by engineer. */
+"Plugin installed" = "Плагин установлен";
+
+/* No comment provided by engineer. */
+"Plugin not installed" = "Плагин не установлен";
+
+/* Title of the Preview notification shown to demonstrate Growl displays */
+"Preview" = "Пример";
+
+/* Quit button title */
+"Quit" = "Завершить";
+
+/* Button title for removing something */
+"Remove" = "Удалить";
+
+/* No comment provided by engineer. */
+"Start Growl" = "Вкл. Growl";
+
+/* No comment provided by engineer. */
+"Stop Growl" = "Выкл. Growl";
+
+/* Title for the dialogue shown if attempting to run Growl on 10.2 or earlier */
+"System requirements not met" = "Обновите Mac OS X…";
+
+/* No comment provided by engineer. */
+"Terminating Growl..." = "Growl завершается…";
+
+/* No comment provided by engineer. */
+"There was an error while installing the plugin '%@'." = "Возникла ошибка при установке плагина '%@'.";
+
+/* Preview message shown when clicking Preview in the system preferences pane. %@ becomes the name of the display style being used. */
+"This is a preview of the %@ display" = "Это предварительный просмотр темы %@";
+
+/* No comment provided by engineer. */
+"This will remove all Growl settings for %@." = "Все настройки Growl для %@ будут удалены.";
+
+/* No comment provided by engineer. */
+"Update Available" = "Доступно обновление";
+
+/* Button title */
+"Upgrade Mac OS X..." = "Обновите Mac OS X…";
+
+/* No comment provided by engineer. */
+"User activity detected. New notifications will not be sticky by default." = "Обнаружена деятельность пользователя. Новые оповещения больше не будут постоянными по умолчанию.";
+
+/* No comment provided by engineer. */
+"User returned" = "Пользователь вернулся";
+
+/* No comment provided by engineer. */
+"User went idle" = "Пользователь перешёл в бездействие";
+
+/* No comment provided by engineer. */
+"Yes" = "Да";
+
+/* No comment provided by engineer. */
+"You are no longer considered idle by Growl" = "Growl больше не считает, что вы бездействуете";
+
+/* No comment provided by engineer. */
+"You are now considered idle by Growl" = "Growl считает, что вы бездействуете";

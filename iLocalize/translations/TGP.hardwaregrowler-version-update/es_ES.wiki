@@ -1,0 +1,2 @@
+-Hemos agregado las localizaciones francesas y españolas.
+- Resolvimos un problema con la localización sueca monstrándose en Rumano.

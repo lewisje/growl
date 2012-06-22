@@ -1,0 +1,2 @@
+- Ajout des traductions en français et espagnol.
+- Résolution d’un problème dans la traduction en suédois affichant du roumain.

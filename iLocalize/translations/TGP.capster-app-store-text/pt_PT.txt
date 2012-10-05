@@ -1,0 +1,3 @@
+Costuma pressionar a tecla de Caps Lock por engano constantemente? Se sim, o Capster é exactamente o que precisa. Esta aplicação fácil de usar dir-lhe-á quando carregou na tecla do Caps Lock, por si mesma ou através do Growl.
+
+Quando pressiona a tecla do Caps Lock, o ícone de menu do Capster irá mudar também. Para dactilógrafos, esta é uma excelente maneira de se manter focado no ecrã.

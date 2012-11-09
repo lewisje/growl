@@ -1,0 +1,6 @@
+external_dependencies/iso8601parser = [git]git://github.com/growl/iso-8601-parser-unparser.git
+external_dependencies/cocoaasyncsocket = [git]git://github.com/growl/CocoaAsyncSocket.git
+external_dependencies/shortcutrecorder = [svn]http://shortcutrecorder.googlecode.com/svn/trunk
+external_dependencies/SGHotKeysLib = [git]git://github.com/growl/SGHotKeysLib.git
+external_dependencies/cocoalumberjack = [git]git://github.com/growl/CocoaLumberjack.git
+external_dependencies/tmslidercontrol = [git]git://github.com/growl/TMSliderControl.git
